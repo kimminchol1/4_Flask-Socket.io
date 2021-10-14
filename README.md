@@ -1,5 +1,5 @@
 # Flask-Socket.io
 flask - socket.io
 
-<socketio채팅참고하기>
+<더 진행하며녀 socketio채팅 참고하기>
 https://github.com/sandeepsudhakaran/rchat-app.git 
